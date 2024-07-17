@@ -23,7 +23,7 @@ redirect_from:
 <span class='anchor' id='publication'></span>
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.jpg' alt="sym" width="93%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:_FxGoFyzp5QC)
@@ -36,7 +36,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/TMM24.jpg' alt="sym" width="93%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/TMM24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:WF5omc3nYNoC)
@@ -49,7 +49,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23.jpg' alt="sym" width="93%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:eQOLeE2rZwMC)
@@ -62,7 +62,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.jpg' alt="sym" width="93%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:2osOgNQ5qMEC)
@@ -74,7 +74,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/TMM22.jpg' alt="sym" width="93%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/TMM22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Novel Rank Learning Based No-Reference Image Quality Assessment Method](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:UeHWp8X0CEIC)
@@ -87,7 +87,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2019</div><img src='images/ICIP19.jpg' alt="sym" width="93%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2019</div><img src='images/ICIP19.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:u-x6o8ySG0sC)
