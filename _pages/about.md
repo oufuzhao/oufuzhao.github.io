@@ -155,3 +155,4 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 Tencent Micro Innovation Award: Face-scan for WeChat Pay <br>
 - **Oct. 2019** -
 1st Academic Scholarship
+
