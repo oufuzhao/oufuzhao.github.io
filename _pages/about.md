@@ -17,42 +17,141 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 😄 Welcome to My Homepage
+======
+------
+- I am currently a Research Scholar in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. My research interest includes image quality assessment, pattern recognition, computer vision, and artificial intelligence. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+======
+------
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration](https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Fu-Zhao Ou**, Chongyi Li, Shiqi Wang, and Sam Kwong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Github Project**](https://github.com/oufuzhao/CLIB-FIQA) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></strong> [![](https://img.shields.io/github/stars/oufuzhao/CLIB-FIQA)](https://github.com/oufuzhao/CLIB-FIQA)
+- In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 1694-1704, 2024.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/TMM24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification](https://ieeexplore.ieee.org/document/10415557)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Fu-Zhao Ou**, Xingyu Chen, Kai Zhao, Shiqi Wang, Yuan-Gen Wang, and Sam Kwong
+
+- [**Github Project**](https://github.com/oufuzhao/QSD) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:WF5omc3nYNoC'></span></strong> [![](https://img.shields.io/github/stars/oufuzhao/QSD)](https://github.com/oufuzhao/QSD)
+- <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 26, pp. 6981-6995, 2024.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment](https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf)
+
+**Fu-Zhao Ou**, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong
+
+- [**Github Project**](https://github.com/oufuzhao/EQBM) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:eQOLeE2rZwMC'></span></strong> [![](https://img.shields.io/github/stars/oufuzhao/EQBM)](https://github.com/oufuzhao/EQBM)
+- In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, pp. 20718-20729, 2023.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf)
+
+**Fu-Zhao Ou**, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang
+
+- [**Github Project**](https://github.com/Tencent/TFace/tree/quality) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:WF5omc3nYNoC'></span></strong> [![](https://img.shields.io/github/stars/Tencent/TFace)](https://github.com/Tencent/TFace/tree/quality)
+- In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 7670-7679, 2021.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/TMM22.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Rank Learning Based No-Reference Image Quality Assessment Method](https://ieeexplore.ieee.org/abstract/document/9548827)
+
+**Fu-Zhao Ou**, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong
+
+- [**Github Project**](https://github.com/GZHU-Image-Lab/CLRIQA) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:UeHWp8X0CEIC'></span></strong> [![](https://img.shields.io/github/stars/GZHU-Image-Lab/CLRIQA)](https://github.com/GZHU-Image-Lab/CLRIQA)
+- <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp. 4197-4211, 2022.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2019</div><img src='images/ICIP19.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics](https://ieeexplore.ieee.org/abstract/document/8803047)
+
+**Fu-Zhao Ou**, Yuan-Gen Wang, and Guopu Zhu
+
+- [**Github Project**](https://github.com/GZHU-Image-Lab/NBIQA) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:UeHWp8X0CEIC'></span></strong> [![](https://img.shields.io/github/stars/GZHU-Image-Lab/NBIQA)](https://github.com/GZHU-Image-Lab/NBIQA) ＋ [![](https://img.shields.io/github/stars/GZU-Image-Video-Lab/NBIQA)](https://github.com/GZU-Image-Video-Lab/NBIQA)
+- In <em>Proceedings of IEEE International Conference on Image Processing (ICIP)</em>, pp. 1004-1008, 2019.
+</div>
+</div>
+
+# 📝 Patents
+======
+------
+**US Patents** <br>
+- Assessing Face Image Quality for Application of Facial Recognition, <em>US Patent</em>, App. 17/991,670, 2023.
+
+**International Exhibition of Inventions** <br>
+- AI-based Adaptive Visual Content Enhancement, <em>International Exhibition of Inventions of Geneva (IEIG)</em>, Silver Medal, 2024.
+
+# 💼 Working Experience
+======
+------
+**Jul. 2021 -- Jul. 2022** -
+Tencent, Shannon Lab (Shenzhen)  <br>
+- Position: Researcher of Computer Vision
+
+**Mar. 2020 -- Jun. 2021** -
+Tencent, YouTu Lab (Shanghai)  <br>
+- Position: Research Intern
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+======
+------
+**Nov. 2021** -
+Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/program/261)  <br>
+- Organized by the European Association for Biometrics ([EAB](https://eab.org/)), National Institute of Standards and Technology ([NIST](https://www.nist.gov/)), European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice ([eu-LISA](https://www.eulisa.europa.eu/)), etc.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🕵🏼‍♂️ Professional Service
+======
+------
+**Journal Reviewer**  <br>
+- IEEE Transactions on Image Processing (TIP) <br>
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <br>
+- Electronics Letters (ELL) <br>
+- Computer Vision and Image Understanding (CVIU)
+
+**Conference Reviewer**  <br>
+- IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR) <br>
+- IEEE/CVF International Conference on Computer Vision (ICCV) <br>
+- AAAI Conference on Artificial Intelligence (AAAI)
+- International Conference on Pattern Recognition (ICPR)
+
+# 🧑🏼‍🏫 Teaching Task
+======
+------
+**CS1302 - Introduction to Computer Programming**  <br>
+- Teaching Assistant, Aug. 2022 -- Jan. 2024 <br>
+- Tutor, Jan. 2024 -- Present <br>
+
+# 🎖 Honors and Awards
+======
+------
+- **Oct. 2020** -
+1st Academic Scholarship <br>
+- **May 2020** -
+Tencent Micro Innovation Award: Face-scan for WeChat Pay <br>
+- **Oct. 2019** -
+1st Academic Scholarship
