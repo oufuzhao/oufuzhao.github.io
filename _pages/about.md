@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😄 Welcome to My Homepage
+# 🥳 Welcome to My Homepage 🥳
 - I am currently a Research Scholar in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. My research interest includes image quality assessment, pattern recognition, computer vision, and artificial intelligence. 
 
 <span class='anchor' id='publication'></span>
 
-# 📝 Publications 
+# 📝 Publications 📝
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,7 +101,7 @@ redirect_from:
 
 <span class='anchor' id='patent'></span>
 
-# 📝 Patents
+# 🤖 Patents 🤖
 **US Patents** <br>
 - Assessing Face Image Quality for Application of Facial Recognition, <em>US Patent</em>, App. 17/991,670, 2023.
 
@@ -110,7 +110,7 @@ redirect_from:
 
 <span class='anchor' id='working'></span>
 
-# 💼 Working Experience
+# 💼 Working Experience 💼
 **Jul. 2021 -- Jul. 2022** -
 Tencent, Shannon Lab (Shenzhen)  <br>
 - Position: Researcher of Computer Vision
@@ -121,14 +121,14 @@ Tencent, YouTu Lab (Shanghai)  <br>
 
 <span class='anchor' id='talks'></span>
 
-# 💬 Invited Talks
+# 💬 Invited Talks 💬
 **Nov. 2021** -
 Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/program/261)  <br>
 - Organized by the European Association for Biometrics ([EAB](https://eab.org/)), National Institute of Standards and Technology ([NIST](https://www.nist.gov/)), European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice ([eu-LISA](https://www.eulisa.europa.eu/)), etc.
 
 <span class='anchor' id='service'></span>
 
-# 🕵🏼‍♂️ Professional Service
+# 🕵🏼‍♂️ Professional Service 🕵🏼‍♂️
 **Journal Reviewer**  <br>
 - IEEE Transactions on Image Processing (TIP) <br>
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <br>
@@ -143,14 +143,14 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 
 <span class='anchor' id='teaching'></span>
 
-# 🧑🏼‍🏫 Teaching Task
+# 🧑🏼‍🏫 Teaching Task 🧑🏼‍🏫
 **CS1302 - Introduction to Computer Programming**  <br>
 - Teaching Assistant, Aug. 2022 -- Jan. 2024 <br>
 - Tutor, Jan. 2024 -- Present <br>
 
 <span class='anchor' id='honor'></span>
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards 🎖
 - **Oct. 2020** -
 1st Academic Scholarship <br>
 - **May 2020** -
