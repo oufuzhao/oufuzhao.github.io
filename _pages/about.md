@@ -119,6 +119,18 @@ redirect_from:
 *Tencent*, *YouTu Lab (Shanghai)*  <br>
 - Position: Research Intern
 
+<span class='anchor' id='edu'></span>
+
+# 📖 Educations
+**Aug. 2022 -- Present** - *Doctor of Philosophy (Ph.D.)* <br> 
+- City University of Hong Kong, Department of Computer Science.
+
+**Sep. 2018 -- Jun. 2021** - *Master of Science (M.S.)*  <br>  
+- Major in Computer Technology, Guangzhou University, School of Computer Science and Cyber Engineering.
+
+**Sep. 2014 -- Jun. 2018** - *Bachelor of Science (B.S.)* <br> 
+- Major in Information Management and Information Systems, Guangzhou Huashang College, School of Data Science. 
+
 <span class='anchor' id='talks'></span>
 
 # 💬 Invited Talks
@@ -147,18 +159,6 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 **CS1302 - Introduction to Computer Programming**  <br>
 - Teaching Assistant, Aug. 2022 -- Jan. 2024 <br>
 - Tutor, Jan. 2024 -- Present <br>
-
-<span class='anchor' id='edu'></span>
-
-# 📖 Educations
-**Aug. 2022 -- Present** - *Doctor of Philosophy (Ph.D.)* <br> 
-- City University of Hong Kong, Department of Computer Science.
-
-**Sep. 2018 -- Jun. 2021** - *Master of Science (M.S.)*  <br>  
-- Major in Computer Technology, Guangzhou University, School of Computer Science and Cyber Engineering.
-
-**Sep. 2014 -- Jun. 2018** - *Bachelor of Science (B.S.)* <br> 
-- Major in Information Management and Information Systems, Guangzhou Huashang College, School of Data Science. 
 
 <span class='anchor' id='honor'></span>
 

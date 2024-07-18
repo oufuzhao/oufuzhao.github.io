@@ -12,6 +12,9 @@ main:
   - title: "Working Experience"
     url: "/#working"
 
+  - title: "Education"
+    url: "/#edu"
+
   - title: "Invited Talks"
     url: "/#talks"
 
@@ -20,9 +23,6 @@ main:
 
   - title: "Teaching Task"
     url: "/#teaching"
-
-  - title: "Education"
-    url: "/#edu"
 
   - title: "Honors and Awards"
     url: "/#honor"
