@@ -21,5 +21,8 @@ main:
   - title: "Teaching Task"
     url: "/#teaching"
 
+  - title: "Education"
+    url: "/#edu"
+
   - title: "Honors and Awards"
     url: "/#honor"

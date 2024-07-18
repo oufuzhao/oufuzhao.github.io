@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🥳 Welcome to My Homepage
-- I am currently a Research Scholar in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. My research interest includes image quality assessment, pattern recognition, computer vision, and artificial intelligence. 
+- I am currently a third-year Ph.D. candidate in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. My research interest includes image quality assessment, pattern recognition, computer vision, and artificial intelligence. 
 
 <span class='anchor' id='publication'></span>
 
@@ -138,7 +138,7 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 **Conference Reviewer**  <br>
 - IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR) <br>
 - IEEE/CVF International Conference on Computer Vision (ICCV) <br>
-- AAAI Conference on Artificial Intelligence (AAAI)
+- AAAI Conference on Artificial Intelligence (AAAI) <br>
 - International Conference on Pattern Recognition (ICPR)
 
 <span class='anchor' id='teaching'></span>
@@ -147,6 +147,13 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 **CS1302 - Introduction to Computer Programming**  <br>
 - Teaching Assistant, Aug. 2022 -- Jan. 2024 <br>
 - Tutor, Jan. 2024 -- Present <br>
+
+<span class='anchor' id='edu'></span>
+
+# 📖 Educations
+- *Aug. 2022 - Present* - Doctor of Philosophy (Ph.D.), City University of Hong Kong, Department of Computer Science. <br>
+- *Sep. 2018 - Jun. 2021* - Master of Science (M.S.) in Computer Technology, Guangzhou University, School of Computer Science and Cyber Engineering. <br>
+- *Sep. 2014 - Jun. 2018* - Bachelor of Science (B.S.) in Information Management and Information Systems, Guangzhou Huashang College, School of Data Science. 
 
 <span class='anchor' id='honor'></span>
 
