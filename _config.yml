@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fu-Zhao Ou"
-description              : ""
+description              : "Research Scholar in Department of Computer Science at City University of Hong Kong"
 repository               : "oufuzhao/oufuzhao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fu-Zhao Ou"
   avatar           : "images/My_profile5.jpg"
-  bio              : "Research Scholar in Department of Computer Science at City University of Hong Kong"
+  bio              : "Chinese name: 区富炤"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
