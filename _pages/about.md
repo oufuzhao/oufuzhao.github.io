@@ -32,7 +32,7 @@ redirect_from:
 
 - **Fu-Zhao Ou**, Chongyi Li, Shiqi Wang, and Sam Kwong
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 1694-1704, 2024.
-- [**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf) <span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span> | 
+- [**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></strong> | 
 [**Github**](https://github.com/oufuzhao/CLIB-FIQA) [![](https://img.shields.io/github/stars/oufuzhao/CLIB-FIQA)](https://github.com/oufuzhao/CLIB-FIQA)
 
 </div>
@@ -45,7 +45,7 @@ redirect_from:
 
 - **Fu-Zhao Ou**, Xingyu Chen, Kai Zhao, Shiqi Wang, Yuan-Gen Wang, and Sam Kwong
 - <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 26, pp. 6981-6995, 2024.
-- [**Paper**](https://ieeexplore.ieee.org/document/10415557) <span class='show_paper_citations' data='rKhmgskAAAAJ:WF5omc3nYNoC'></span> | 
+- [**Paper**](https://ieeexplore.ieee.org/document/10415557) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:WF5omc3nYNoC'></span></strong> | 
 [**Github**](https://github.com/oufuzhao/QSD) [![](https://img.shields.io/github/stars/oufuzhao/QSD)](https://github.com/oufuzhao/QSD)
 
 </div>
@@ -58,7 +58,7 @@ redirect_from:
 
 - **Fu-Zhao Ou**, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, pp. 20718-20729, 2023.
-- [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf) <span class='show_paper_citations' data='rKhmgskAAAAJ:eQOLeE2rZwMC'></span> | 
+- [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:eQOLeE2rZwMC'></span></strong> | 
 [**Github**](https://github.com/oufuzhao/EQBM) [![](https://img.shields.io/github/stars/oufuzhao/EQBM)](https://github.com/oufuzhao/EQBM)
 
 </div>
@@ -71,7 +71,7 @@ redirect_from:
 
 - **Fu-Zhao Ou**, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 7670-7679, 2021.
-- [**Paper**](https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf) <span class='show_paper_citations' data='rKhmgskAAAAJ:2osOgNQ5qMEC'></span> | 
+- [**Paper**](https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:2osOgNQ5qMEC'></span></strong> | 
 [**Github**](https://github.com/Tencent/TFace/tree/quality) [![](https://img.shields.io/github/stars/Tencent/TFace)](https://github.com/Tencent/TFace/tree/quality)
 </div>
 </div>
@@ -83,8 +83,8 @@ redirect_from:
 
 - **Fu-Zhao Ou**, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong
 - <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp. 4197-4211, 2022.
-- [**Paper**](https://ieeexplore.ieee.org/abstract/document/9548827) <span class='show_paper_citations' data='rKhmgskAAAAJ:UeHWp8X0CEIC'></span> |
-[**Github**](https://github.com/GZHU-Image-Lab/CLRIQA) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:UeHWp8X0CEIC'></span></strong> [![](https://img.shields.io/github/stars/GZHU-Image-Lab/CLRIQA)](https://github.com/GZHU-Image-Lab/CLRIQA)
+- [**Paper**](https://ieeexplore.ieee.org/abstract/document/9548827) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:UeHWp8X0CEIC'></span></strong> |
+[**Github**](https://github.com/GZHU-Image-Lab/CLRIQA) [![](https://img.shields.io/github/stars/GZHU-Image-Lab/CLRIQA)](https://github.com/GZHU-Image-Lab/CLRIQA)
 
 </div>
 </div>
@@ -96,8 +96,8 @@ redirect_from:
 
 - **Fu-Zhao Ou**, Yuan-Gen Wang, and Guopu Zhu
 - In <em>Proceedings of IEEE International Conference on Image Processing (ICIP)</em>, pp. 1004-1008, 2019.
-- [**Paper**](https://ieeexplore.ieee.org/abstract/document/8803047) <span class='show_paper_citations' data='rKhmgskAAAAJ:u-x6o8ySG0sC'></span> | 
-[**Github**](https://github.com/GZHU-Image-Lab/NBIQA) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:UeHWp8X0CEIC'></span></strong> [![](https://img.shields.io/github/stars/GZHU-Image-Lab/NBIQA)](https://github.com/GZHU-Image-Lab/NBIQA) ＋ [![](https://img.shields.io/github/stars/GZU-Image-Video-Lab/NBIQA)](https://github.com/GZU-Image-Video-Lab/NBIQA)
+- [**Paper**](https://ieeexplore.ieee.org/abstract/document/8803047) <strong><span class='show_paper_citations' data='rKhmgskAAAAJ:u-x6o8ySG0sC'></span></strong> | 
+[**Github**](https://github.com/GZHU-Image-Lab/NBIQA) [![](https://img.shields.io/github/stars/GZHU-Image-Lab/NBIQA)](https://github.com/GZHU-Image-Lab/NBIQA) ＋ [![](https://img.shields.io/github/stars/GZU-Image-Video-Lab/NBIQA)](https://github.com/GZU-Image-Video-Lab/NBIQA)
 </div>
 </div>
 
