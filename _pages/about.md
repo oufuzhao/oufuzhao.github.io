@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🥳 Welcome to My Homepage
-- I am currently a third-year Ph.D. candidate in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. My research interest includes image quality assessment, pattern recognition, computer vision, and artificial intelligence. 
+- I am currently a Ph.D. candidate in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. My research interest includes image quality assessment, pattern recognition, computer vision, and artificial intelligence. 
 
 <span class='anchor' id='publication'></span>
 
