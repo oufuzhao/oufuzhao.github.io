@@ -136,6 +136,10 @@ redirect_from:
 <span class='anchor' id='talks'></span>
 
 # 💬 Invited Talks
+**Aug. 2024** -
+Online talk for Face Image Quality Assessment in the Deep Learning Era  <br>
+- Invited by the Visual Information Lab, University of Bristol, United Kingdom.
+
 **Nov. 2021** -
 Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/program/261)  <br>
 - Organized by the European Association for Biometrics ([EAB](https://eab.org/)), National Institute of Standards and Technology ([NIST](https://www.nist.gov/)), European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice ([eu-LISA](https://www.eulisa.europa.eu/)), etc.
@@ -145,6 +149,7 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 # 🕵🏼‍♂️ Professional Service
 **Journal Reviewer**  <br>
 - IEEE Transactions on Image Processing (TIP) <br>
+- International Journal of Applied Earth Observation and Geoinformation (JAG) <br>
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <br>
 - Electronics Letters (ELL) <br>
 - Computer Vision and Image Understanding (CVIU)
