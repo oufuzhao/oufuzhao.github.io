@@ -165,7 +165,7 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 # 🧑🏼‍🏫 Teaching Task
 **CS1302 - Introduction to Computer Programming**  <br>
 - Teaching Assistant, Aug. 2022 -- Jan. 2024 <br>
-- Tutor, Jan. 2024 -- Present <br>
+- Tutor, Jan. 2024 -- May. 2024 <br>
 
 <span class='anchor' id='honor'></span>
 
