@@ -138,7 +138,7 @@ redirect_from:
 # 💬 Invited Talks
 **Aug. 2024** -
 Online talk for Face Image Quality Assessment in the Deep Learning Era  <br>
-- Invited by the Visual Information Lab, University of Bristol, United Kingdom.
+- Invited by Dr. Fan (Aaron) Zhang, the Visual Information Lab, University of Bristol, United Kingdom.
 
 **Nov. 2021** -
 Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/program/261)  <br>
