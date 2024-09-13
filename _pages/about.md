@@ -177,15 +177,15 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 - **Sep. 2024** -
 Institutional Research Tuition Scholarship <br>
 - **May 2021** -
-Tencent OTeams Award: Short-video Quality Assessment <br>
+Tencent OTeam Contribution: Short-video Quality Assessment <br>
 - **Jan. 2021** -
 Tencent Micro Innovation Award: Efficient Video Enhancement Method for QoE <br>
 - **Oct. 2020** -
-1st Academic Scholarship <br>
+First Prize Academic Scholarship <br>
 - **May 2020** -
 Tencent Micro Innovation Award: Face-scan for WeChat Pay <br>
 - **Oct. 2019** -
-1st Academic Scholarship
+First Prize Academic Scholarship
 <br>
 <br>
 <br>
