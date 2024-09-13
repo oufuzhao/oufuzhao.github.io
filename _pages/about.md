@@ -161,20 +161,20 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 - International Conference on Pattern Recognition (ICPR)
 
 **Campus Service**  <br>
-- Student Representative on Research Education Committee, Department of Computer Science (CS), CityU, Sept. 1 2023 - Present  <br>
+- Student Representative on Research Education Committee, Department of Computer Science (CS), CityU, Sep. 1 2023 - Present  <br>
 - Please free feel to contact me by email if you have any feedback on the research degree programme for CityU CS, Thanks :)
 
 <span class='anchor' id='teaching'></span>
 
 # 🧑🏼‍🏫 Teaching Task
 **CS1302 - Introduction to Computer Programming**  <br>
-- Teaching Assistant, Aug. 2022 -- Jan. 2024 & Sept. 2024 -- Present <br>
+- Teaching Assistant, Aug. 2022 -- Jan. 2024 & Sep. 2024 -- Present <br>
 - Tutor, Jan. 2024 -- May. 2024 <br>
 
 <span class='anchor' id='honor'></span>
 
 # 🎖 Honors and Awards
-- **Sept. 2024** -
+- **Sep. 2024** -
 Institutional Research Tuition Scholarship <br>
 - **May 2021** -
 Tencent OTeams Award: Short-video Quality Assessment <br>
@@ -186,7 +186,6 @@ Tencent Micro Innovation Award: Efficient Video Enhancement Method for QoE <br>
 Tencent Micro Innovation Award: Face-scan for WeChat Pay <br>
 - **Oct. 2019** -
 1st Academic Scholarship
-
 <br>
 <br>
 <br>
