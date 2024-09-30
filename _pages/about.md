@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🥳 Welcome to My Homepage
+# 🥳 Welcome to My Homepage 
 - I am currently a Ph.D. candidate in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. 
-- My research interest includes image quality assessment, pattern recognition, computer vision, and artificial intelligence. I have published 6 first-author publications at the top-tier international conferences and journals in the field of computer vision with total <a href='https://scholar.google.com/citations?user=rKhmgskAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foufuzhao%2Foufuzhao.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. 
-- Meanwhile, I have also been a reviewer for several leading conferences and journals, including CVPR, ICCV, AAAI, ICPR, TIP, TCSVT, ELL, and CVIU.
+- My research interests include image quality assessment, pattern recognition, computer vision, and artificial intelligence. I have published 6 first-author publications at top-tier international conferences and journals in the field of computer vision with total <a href='https://scholar.google.com/citations?user=rKhmgskAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foufuzhao%2Foufuzhao.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. 
+- I have also been a reviewer for several leading conferences and journals, including CVPR, ICCV, AAAI, ICPR, TIP, JAG, TCSVT, ELL, and CVIU.
 
 <span class='anchor' id='publication'></span>
 
@@ -101,6 +101,7 @@ redirect_from:
 </div>
 </div>
 
+
 <span class='anchor' id='patent'></span>
 
 # 🤖 Patents
@@ -136,6 +137,10 @@ redirect_from:
 <span class='anchor' id='talks'></span>
 
 # 💬 Invited Talks
+**Aug. 2024** -
+Online talk for Face Image Quality Assessment in the Deep Learning Era  <br>
+- Invited by Dr. Fan (Aaron) Zhang, the Visual Information Lab, University of Bristol, United Kingdom.
+
 **Nov. 2021** -
 Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/program/261)  <br>
 - Organized by the European Association for Biometrics ([EAB](https://eab.org/)), National Institute of Standards and Technology ([NIST](https://www.nist.gov/)), European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice ([eu-LISA](https://www.eulisa.europa.eu/)), etc.
@@ -145,6 +150,7 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 # 🕵🏼‍♂️ Professional Service
 **Journal Reviewer**  <br>
 - IEEE Transactions on Image Processing (TIP) <br>
+- International Journal of Applied Earth Observation and Geoinformation (JAG) <br>
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <br>
 - Electronics Letters (ELL) <br>
 - Computer Vision and Image Understanding (CVIU)
@@ -155,22 +161,32 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 - AAAI Conference on Artificial Intelligence (AAAI) <br>
 - International Conference on Pattern Recognition (ICPR)
 
+**Campus Service**  <br>
+- Student Representative on Research Education Committee, Department of Computer Science (CS), CityU, Sep. 1 2023 - Present  <br>
+- Please free feel to contact me by email if you have any feedback on the research degree programme for CityU CS, Thanks :)
+
 <span class='anchor' id='teaching'></span>
 
 # 🧑🏼‍🏫 Teaching Task
 **CS1302 - Introduction to Computer Programming**  <br>
-- Teaching Assistant, Aug. 2022 -- Jan. 2024 <br>
-- Tutor, Jan. 2024 -- Present <br>
+- Teaching Assistant, Aug. 2022 -- Jan. 2024 and Sep. 2024 -- Present <br>
+- Tutor, Jan. 2024 -- May. 2024 <br>
 
 <span class='anchor' id='honor'></span>
 
 # 🎖 Honors and Awards
+- **Sep. 2024** -
+Institutional Research Tuition Scholarship <br>
+- **May 2021** -
+Tencent OTeam Contribution: Short-video Quality Assessment <br>
+- **Jan. 2021** -
+Tencent Micro Innovation Award: Efficient Video Enhancement Method for QoE <br>
 - **Oct. 2020** -
-1st Academic Scholarship <br>
+First Prize Academic Scholarship <br>
 - **May 2020** -
 Tencent Micro Innovation Award: Face-scan for WeChat Pay <br>
 - **Oct. 2019** -
-1st Academic Scholarship
-
+First Prize Academic Scholarship
+<br>
 <br>
 <br>
