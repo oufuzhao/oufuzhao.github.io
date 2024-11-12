@@ -132,7 +132,7 @@ redirect_from:
 - Major in Computer Technology, Guangzhou University, School of Computer Science and Cyber Engineering.
 
 **Sep. 2014 -- Jun. 2018** - *Bachelor of Science (B.S.)* <br> 
-- Major in Information Management and Information Systems, Huashang College of Guangdong University of Finance and Economics, School of Data Science. 
+- Major in Information Management and Information Systems, Guangdong University of Finance and Economics, School of Data Science. 
 
 <span class='anchor' id='talks'></span>
 
