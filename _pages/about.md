@@ -28,12 +28,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:_FxGoFyzp5QC) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
+[CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:_FxGoFyzp5QC)
 
 - **Fu-Zhao Ou**, Chongyi Li, Shiqi Wang, and Sam Kwong
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 1694-1704, 2024.
 - [**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf) <a href='https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf'><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></a> | 
 [**Github**](https://github.com/oufuzhao/CLIB-FIQA) [![](https://img.shields.io/github/stars/oufuzhao/CLIB-FIQA)](https://github.com/oufuzhao/CLIB-FIQA)
+- <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
 
 </div>
 </div>
@@ -41,12 +42,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/TMM24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:WF5omc3nYNoC) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span>
+[Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:WF5omc3nYNoC)
 
 - **Fu-Zhao Ou**, Xingyu Chen, Kai Zhao, Shiqi Wang, Yuan-Gen Wang, and Sam Kwong
 - <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 26, pp. 6981-6995, 2024.
 - [**Paper**](https://ieeexplore.ieee.org/document/10415557) <a href='https://ieeexplore.ieee.org/document/10415557'><span class='show_paper_citations' data='rKhmgskAAAAJ:WF5omc3nYNoC'></span></a> | 
 [**Github**](https://github.com/oufuzhao/QSD) [![](https://img.shields.io/github/stars/oufuzhao/QSD)](https://github.com/oufuzhao/QSD)
+- <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span>
 
 </div>
 </div>
@@ -54,12 +56,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:eQOLeE2rZwMC) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
+[Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:eQOLeE2rZwMC)
 
 - **Fu-Zhao Ou**, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, pp. 20718-20729, 2023.
 - [**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf) <a href='https://openaccess.thecvf.com/content/ICCV2023/papers/Ou_Troubleshooting_Ethnic_Quality_Bias_with_Curriculum_Domain_Adaptation_for_Face_ICCV_2023_paper.pdf'><span class='show_paper_citations' data='rKhmgskAAAAJ:eQOLeE2rZwMC'></span></a> | 
 [**Github**](https://github.com/oufuzhao/EQBM) [![](https://img.shields.io/github/stars/oufuzhao/EQBM)](https://github.com/oufuzhao/EQBM)
+- <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
 
 </div>
 </div>
@@ -67,37 +70,39 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:2osOgNQ5qMEC) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
+[SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:2osOgNQ5qMEC)
 
 - **Fu-Zhao Ou**, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 7670-7679, 2021.
 - [**Paper**](https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf) <a href='https://openaccess.thecvf.com/content/CVPR2021/papers/Ou_SDD-FIQA_Unsupervised_Face_Image_Quality_Assessment_With_Similarity_Distribution_Distance_CVPR_2021_paper.pdf'><span class='show_paper_citations' data='rKhmgskAAAAJ:2osOgNQ5qMEC'></span></a> | 
 [**Github**](https://github.com/Tencent/TFace/tree/quality) [![](https://img.shields.io/github/stars/Tencent/TFace)](https://github.com/Tencent/TFace/tree/quality)
+- <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/TMM22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Novel Rank Learning Based No-Reference Image Quality Assessment Method](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:UeHWp8X0CEIC) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span>
+[A Novel Rank Learning Based No-Reference Image Quality Assessment Method](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:UeHWp8X0CEIC)
 
 - **Fu-Zhao Ou**, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong
 - <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp. 4197-4211, 2022.
 - [**Paper**](https://ieeexplore.ieee.org/abstract/document/9548827) <a href='https://ieeexplore.ieee.org/abstract/document/9548827'><span class='show_paper_citations' data='rKhmgskAAAAJ:UeHWp8X0CEIC'></span></a> |
 [**Github**](https://github.com/GZHU-Image-Lab/CLRIQA) [![](https://img.shields.io/github/stars/GZHU-Image-Lab/CLRIQA)](https://github.com/GZHU-Image-Lab/CLRIQA)
-
+- <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2019</div><img src='images/ICIP19.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:u-x6o8ySG0sC) <span style="background-color: #f0f0f0; padding: 2px;">CCF-C</span>
+[A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:u-x6o8ySG0sC)
 
 - **Fu-Zhao Ou**, Yuan-Gen Wang, and Guopu Zhu
 - In <em>Proceedings of IEEE International Conference on Image Processing (ICIP)</em>, pp. 1004-1008, 2019.
 - [**Paper**](https://ieeexplore.ieee.org/abstract/document/8803047) <a href='https://ieeexplore.ieee.org/abstract/document/8803047'><span class='show_paper_citations' data='rKhmgskAAAAJ:u-x6o8ySG0sC'></span></a> | 
 [**Github**](https://github.com/GZHU-Image-Lab/NBIQA) [![](https://img.shields.io/github/stars/GZHU-Image-Lab/NBIQA)](https://github.com/GZHU-Image-Lab/NBIQA) ＋ [![](https://img.shields.io/github/stars/GZU-Image-Video-Lab/NBIQA)](https://github.com/GZU-Image-Video-Lab/NBIQA)
+- <span style="background-color: #f0f0f0; padding: 2px;">CCF-C</span>
 </div>
 </div>
 
