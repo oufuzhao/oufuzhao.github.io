@@ -19,12 +19,12 @@ redirect_from:
 
 # 🥳 Welcome to My Homepage 
 - I am currently a Ph.D. candidate in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. 
-- My research interests include image quality assessment, pattern recognition, computer vision, and artificial intelligence. I have published 6 first-author publications at top-tier international conferences and journals in the field of computer vision with total <a href='https://scholar.google.com/citations?user=rKhmgskAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foufuzhao%2Foufuzhao.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. 
-- I have also been a reviewer for several leading conferences and journals, including CVPR, ICCV, AAAI, ICPR, TIP, JAG, TCSVT, ELL, and CVIU.
+- My research interests include image quality assessment, pattern recognition, computer vision, and artificial intelligence. I have published several publications at top-tier international conferences and journals in the field of computer vision with total <a href='https://scholar.google.com/citations?user=rKhmgskAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foufuzhao%2Foufuzhao.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. 
+- I have also been a reviewer for several leading conferences and journals, including CVPR, ICCV, AAAI, ICPR, CVM, TIP, JAG, TCSVT, EAAI, ELL, and CVIU.
 
 <span class='anchor' id='publication'></span>
 
-# 📝 Publications
+# 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -132,7 +132,7 @@ redirect_from:
 - Major in Computer Technology, Guangzhou University, School of Computer Science and Cyber Engineering.
 
 **Sep. 2014 -- Jun. 2018** - *Bachelor of Science (B.S.)* <br> 
-- Major in Information Management and Information Systems, Guangdong University of Finance and Economics, School of Data Science. 
+- Major in Information Management and Information Systems, Huashang College Guangdong University of Finance and Economics, School of Data Science. 
 
 <span class='anchor' id='talks'></span>
 
@@ -149,21 +149,24 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 
 # 🕵🏼‍♂️ Professional Service
 **Journal Reviewer**  <br>
-- IEEE Transactions on Image Processing (TIP) <br>
-- International Journal of Applied Earth Observation and Geoinformation (JAG) <br>
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <br>
-- Electronics Letters (ELL) <br>
-- Computer Vision and Image Understanding (CVIU)
+- IEEE Transactions on Image Processing (TIP) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=10.8 <br>
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=8.3 <br>
+- International Journal of Applied Earth Observation and Geoinformation (JAG) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=7.6 <br>
+- Engineering Applications of Artificial Intelligence (EAAI) <br> <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=7.5 <br>
+- Computer Vision and Image Understanding (CVIU)  <br> <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=4.9
+- Electronics Letters (ELL)  <br> <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q3</span> / IF=0.7 <br>
 
 **Conference Reviewer**  <br>
-- IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR) <br>
-- IEEE/CVF International Conference on Computer Vision (ICCV) <br>
-- AAAI Conference on Artificial Intelligence (AAAI) <br>
-- International Conference on Pattern Recognition (ICPR)
+- IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> / h5-median=689 <br>
+- IEEE/CVF International Conference on Computer Vision (ICCV) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> / h5-median=484 <br>
+- AAAI Conference on Artificial Intelligence (AAAI) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> / h5-median=341 <br>
+- International Conference on Pattern Recognition (ICPR) <span style="background-color: #f0f0f0; padding: 2px;">CCF-C</span> / h5-median=91 <br>
+- International Conference on Computational Visual Media (CVM) <span style="background-color: #f0f0f0; padding: 2px;">CCF-C</span> / h5-median=79
 
 **Campus Service**  <br>
-- Student Representative on Research Education Committee, Department of Computer Science (CS), CityU, Sep. 1 2023 - Present  <br>
-- Please free feel to contact me by email if you have any feedback on the research degree programme for CityU CS, Thanks :)
+- Member of College Graduate Studies Committee, College of Computing, CityU, Sep. 2024 - Present
+- Student Representative of Research Education Committee, Department of Computer Science (CS), CityU, Sep. 2023 - Present  <br>
+- Please feel free to contact me by email if you have any feedback on the graduate programme in our college or department, Thanks :)
 
 <span class='anchor' id='teaching'></span>
 
