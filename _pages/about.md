@@ -28,7 +28,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:_FxGoFyzp5QC)
+[CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:_FxGoFyzp5QC) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
 
 - **Fu-Zhao Ou**, Chongyi Li, Shiqi Wang, and Sam Kwong
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 1694-1704, 2024.
@@ -41,7 +41,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/TMM24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:WF5omc3nYNoC)
+[Refining Uncertain Features with Self-Distillation for Face Recognition and Person Re-Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:WF5omc3nYNoC) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span>
 
 - **Fu-Zhao Ou**, Xingyu Chen, Kai Zhao, Shiqi Wang, Yuan-Gen Wang, and Sam Kwong
 - <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 26, pp. 6981-6995, 2024.
@@ -54,7 +54,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:eQOLeE2rZwMC)
+[Troubleshooting Ethnic Quality Bias with Curriculum Domain Adaptation for Face Image Quality Assessment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:eQOLeE2rZwMC) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
 
 - **Fu-Zhao Ou**, Baoliang Chen, Chongyi Li, Shiqi Wang, and Sam Kwong
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, pp. 20718-20729, 2023.
@@ -67,7 +67,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:2osOgNQ5qMEC)
+[SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:2osOgNQ5qMEC) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
 
 - **Fu-Zhao Ou**, Xingyu Chen, Ruixin Zhang, Yuge Huang, Shaoxin Li, Jilin Li, Yong Li, Liujuan Cao, and Yuan-Gen Wang
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 7670-7679, 2021.
@@ -79,7 +79,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/TMM22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Novel Rank Learning Based No-Reference Image Quality Assessment Method](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:UeHWp8X0CEIC)
+[A Novel Rank Learning Based No-Reference Image Quality Assessment Method](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:UeHWp8X0CEIC) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span>
 
 - **Fu-Zhao Ou**, Yuan-Gen Wang, Jin Li, Guopu Zhu, and Sam Kwong
 - <em>IEEE Transactions on Multimedia (TMM)</em>, vol. 24, pp. 4197-4211, 2022.
@@ -92,7 +92,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2019</div><img src='images/ICIP19.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:u-x6o8ySG0sC)
+[A Novel Blind Image Quality Assessment Method based on Refined Natural Scene Statistics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rKhmgskAAAAJ&citation_for_view=rKhmgskAAAAJ:u-x6o8ySG0sC) <span style="background-color: #f0f0f0; padding: 2px;">CCF-C</span>
 
 - **Fu-Zhao Ou**, Yuan-Gen Wang, and Guopu Zhu
 - In <em>Proceedings of IEEE International Conference on Image Processing (ICIP)</em>, pp. 1004-1008, 2019.
