@@ -157,11 +157,11 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 - Electronics Letters (ELL), <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q3 / IF=0.7</span> <br>
 
 **Conference Reviewer**  <br>
-- IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR), <span style="background-color: #f0f0f0; padding: 2px;">CCF-A / h5-median=689</span> <br>
-- IEEE/CVF International Conference on Computer Vision (ICCV), <span style="background-color: #f0f0f0; padding: 2px;">CCF-A / h5-median=484</span> <br>
-- AAAI Conference on Artificial Intelligence (AAAI), <span style="background-color: #f0f0f0; padding: 2px;">CCF-A / h5-median=341</span> <br>
-- International Conference on Pattern Recognition (ICPR), <span style="background-color: #f0f0f0; padding: 2px;">CCF-C / h5-median=91</span> <br>
-- International Conference on Computational Visual Media (CVM), <span style="background-color: #f0f0f0; padding: 2px;">CCF-C / h5-median=79</span>  <br>
+- IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR), <span style="background-color: #f0f0f0; padding: 2px;">CCF-A / h5-m=689</span> <br>
+- IEEE/CVF International Conference on Computer Vision (ICCV), <span style="background-color: #f0f0f0; padding: 2px;">CCF-A / h5-m=484</span> <br>
+- AAAI Conference on Artificial Intelligence (AAAI), <span style="background-color: #f0f0f0; padding: 2px;">CCF-A / h5-m=341</span> <br>
+- International Conference on Pattern Recognition (ICPR), <span style="background-color: #f0f0f0; padding: 2px;">CCF-C / h5-m=91</span> <br>
+- International Conference on Computational Visual Media (CVM), <span style="background-color: #f0f0f0; padding: 2px;">CCF-C / h5-m=79</span>  <br>
 
 **Campus Service**  <br>
 - Member of College Graduate Studies Committee, College of Computing, CityU, Sep. 2024 - Present
