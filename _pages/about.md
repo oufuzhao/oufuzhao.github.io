@@ -32,10 +32,9 @@ redirect_from:
 
 - **Fu-Zhao Ou**, Chongyi Li, Shiqi Wang, and Sam Kwong
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, pp. 1694-1704, 2024.
-- [**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf) <a href='https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf'><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></a> | 
+- <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> | 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf) <a href='https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf'><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></a> | 
 [**Github**](https://github.com/oufuzhao/CLIB-FIQA) [![](https://img.shields.io/github/stars/oufuzhao/CLIB-FIQA)](https://github.com/oufuzhao/CLIB-FIQA)
-- <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span>
-
 </div>
 </div>
 
