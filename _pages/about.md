@@ -149,19 +149,19 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 
 # 🕵🏼‍♂️ Professional Service
 **Journal Reviewer**  <br>
-- IEEE Transactions on Image Processing (TIP) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=10.8 <br>
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=8.3 <br>
-- International Journal of Applied Earth Observation and Geoinformation (JAG) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=7.6 <br>
-- Engineering Applications of Artificial Intelligence (EAAI) <br> <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=7.5 <br>
-- Computer Vision and Image Understanding (CVIU)  <br> <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> / IF=4.9
-- Electronics Letters (ELL)  <br> <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q3</span> / IF=0.7 <br>
+- IEEE Transactions on Image Processing (TIP) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1 / IF=10.8</span> <br>
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1 / IF=8.3</span> <br>
+- International Journal of Applied Earth Observation and Geoinformation (JAG) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1 / IF=7.6</span> <br>
+- Engineering Applications of Artificial Intelligence (EAAI) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1 / IF=7.5</span> <br>
+- Computer Vision and Image Understanding (CVIU)  <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1 / IF=4.9</span>
+- Electronics Letters (ELL) <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q3 / IF=0.7</span> <br>
 
 **Conference Reviewer**  <br>
-- IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> / h5-median=689 <br>
-- IEEE/CVF International Conference on Computer Vision (ICCV) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> / h5-median=484 <br>
-- AAAI Conference on Artificial Intelligence (AAAI) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> / h5-median=341 <br>
-- International Conference on Pattern Recognition (ICPR) <span style="background-color: #f0f0f0; padding: 2px;">CCF-C</span> / h5-median=91 <br>
-- International Conference on Computational Visual Media (CVM) <span style="background-color: #f0f0f0; padding: 2px;">CCF-C</span> / h5-median=79
+- IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (CVPR) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A / h5-median=689</span> <br>
+- IEEE/CVF International Conference on Computer Vision (ICCV) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A / h5-median=484</span> <br>
+- AAAI Conference on Artificial Intelligence (AAAI) <span style="background-color: #f0f0f0; padding: 2px;">CCF-A / h5-median=341</span> <br>
+- International Conference on Pattern Recognition (ICPR) <span style="background-color: #f0f0f0; padding: 2px;">CCF-C / h5-median=91</span> <br>
+- International Conference on Computational Visual Media (CVM) <span style="background-color: #f0f0f0; padding: 2px;">CCF-C / h5-median=79</span>  <br>
 
 **Campus Service**  <br>
 - Member of College Graduate Studies Committee, College of Computing, CityU, Sep. 2024 - Present
