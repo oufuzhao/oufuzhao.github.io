@@ -20,7 +20,7 @@ redirect_from:
 # 🥳 Welcome to My Homepage 
 - I am currently a Ph.D. candidate in Department of Computer Science at City University of Hong Kong. Previously, I served as a Researcher of Computer Vision with Shannon Laboratory at Tencent, Shenzhen, China, from 2021 to 2022. Meanwhile, from 2020 to 2021, I worked as a research intern at Youtu Laboratory, Tencent, Shanghai, China. 
 - My research interests include image quality assessment, pattern recognition, computer vision, and artificial intelligence. I have published several publications at top-tier international conferences and journals in the field of computer vision with total <a href='https://scholar.google.com/citations?user=rKhmgskAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Foufuzhao%2Foufuzhao.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>. 
-- I have also been a reviewer for several leading conferences and journals, including CVPR, ICCV, AAAI, ICPR, CVM, TIP, TMM, TCSVT, JAG, and et al.
+- I have also been a reviewer for several leading conferences and journals, including CVPR, ICCV, AAAI, ICPR, TIP, TMM, TCSVT, JAG, and et al.
 
 <span class='anchor' id='publication'></span>
 
