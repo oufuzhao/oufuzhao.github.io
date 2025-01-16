@@ -25,7 +25,7 @@ redirect_from:
 <span class='anchor' id='publication'></span>
 
 # 📝 Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/Tianyu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJON 2025</div><img src='images/Tianyu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Seeking the Optimal Accuracy-Rate Equilibrium in Face Recognition](https://oufuzhao.github.io/)
