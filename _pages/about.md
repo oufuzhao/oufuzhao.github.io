@@ -25,14 +25,15 @@ redirect_from:
 <span class='anchor' id='publication'></span>
 
 # 📝 Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJON 2025</div><img src='images/Tianyu.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJON 2025</div><img src='images/Tianyu2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Seeking the Optimal Accuracy-Rate Equilibrium in Face Recognition](https://oufuzhao.github.io/)
 
 - Yu Tian, **Fu-Zhao Ou**, Shiqi Wang, Baoliang Chen, and Sam Kwong
 - <em>Neurocomputing</em>, Accepted.
-- <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1/span> | Paper and code will be available soon
+- <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> | 
+Paper and code will be available soon
 </div>
 </div>
 
