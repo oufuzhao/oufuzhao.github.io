@@ -157,9 +157,9 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=8.4</span> <br>
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) |
 <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=8.3</span> <br>
-- International Journal of Applied Earth Observation and Geoinformation (JAG) |
-<span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=3.2</span> <br>
 - IEEE Signal Processing Letters (SPL) |
+<span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=3.2</span> <br>
+- International Journal of Applied Earth Observation and Geoinformation (JAG) |
 <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=7.6</span> <br>
 - Engineering Applications of Artificial Intelligence (EAAI) |
 <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=7.5</span> <br>
