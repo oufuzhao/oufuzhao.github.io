@@ -30,7 +30,7 @@ redirect_from:
 [MR-FIQA: Face Image Quality Assessment with Multi-Reference Representations from Synthetic Data Generation](https://oufuzhao.github.io/)
 - **Fu-Zhao Ou**, Chongyi Li, Shiqi Wang, and Sam Kwong
 - In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, 2025, Accepted.
-- <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> | 
+- <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> | 
 Paper and code will be available soon
 </div>
 </div>
