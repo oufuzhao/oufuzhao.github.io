@@ -25,7 +25,7 @@ redirect_from:
 <span class='anchor' id='publication'></span>
 
 # 📝 Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJON 2025</div><img src='images/ICCV25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MR-FIQA: Face Image Quality Assessment with Multi-Reference Representations from Synthetic Data Generation](https://oufuzhao.github.io/)
 - **Fu-Zhao Ou**, Chongyi Li, Shiqi Wang, and Sam Kwong
