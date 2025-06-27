@@ -39,8 +39,8 @@ Paper and code will be available soon
 <div class='paper-box-text' markdown="1">
 [Seeking the Optimal Accuracy-Rate Equilibrium in Face Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231225000955)
 - Yu Tian, **Fu-Zhao Ou**, Shiqi Wang, Baoliang Chen, and Sam Kwong
-- <em>Neurocomputing</em>, Vol. 624, 129423, 2025
-- <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> | 
+- <em>Neurocomputing</em>, Vol. 624, pp. 129423, 2025.
+- <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> | Code will be available soon
 </div>
 </div>
 
