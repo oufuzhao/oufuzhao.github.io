@@ -25,15 +25,22 @@ redirect_from:
 <span class='anchor' id='publication'></span>
 
 # 📝 Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJON 2025</div><img src='images/Tianyu2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJON 2025</div><img src='images/ICCV25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Seeking the Optimal Accuracy-Rate Equilibrium in Face Recognition](https://oufuzhao.github.io/)
-
-- Yu Tian, **Fu-Zhao Ou**, Shiqi Wang, Baoliang Chen, and Sam Kwong
-- <em>Neurocomputing</em>, Accepted.
+[MR-FIQA: Face Image Quality Assessment with Multi-Reference Representations from Synthetic Data Generation](https://oufuzhao.github.io/)
+- **Fu-Zhao Ou**, Chongyi Li, Shiqi Wang, and Sam Kwong
+- In <em>Proceedings of IEEE/CVF Conference on Computer Vision (ICCV)</em>, 2025, Accepted.
 - <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> | 
 Paper and code will be available soon
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJON 2025</div><img src='images/Tianyu2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Seeking the Optimal Accuracy-Rate Equilibrium in Face Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231225000955)
+- Yu Tian, **Fu-Zhao Ou**, Shiqi Wang, Baoliang Chen, and Sam Kwong
+- <em>Neurocomputing</em>, Vol. 624, 129423, 2025
+- <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> | 
 </div>
 </div>
 
@@ -153,6 +160,8 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 **Journal Reviewer**  <br>
 - IEEE Transactions on Image Processing (TIP) |
 <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=10.8</span> <br>
+- IEEE Transactions on Information Forensics and Security (TIFS) |
+<span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=12.5</span> <br>
 - IEEE Transactions on Multimedia (TMM) |
 <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=8.4</span> <br>
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) |
@@ -165,6 +174,8 @@ Invited talk in the [Workshop on Face Image Quality](https://eab.org/events/prog
 <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=7.5</span> <br>
 - Computer Vision and Image Understanding (CVIU) |
 <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1, IF=4.9</span>
+- Signal, Image and Video Processing |
+<span style="background-color: #f0f0f0; padding: 2px;">JCR-Q3, IF=2.0</span> <br>
 - Electronics Letters (ELL) |
 <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q3, IF=0.7</span> <br>
 
