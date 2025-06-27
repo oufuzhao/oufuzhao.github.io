@@ -41,6 +41,7 @@ Paper and code will be available soon
 - Yu Tian, **Fu-Zhao Ou**, Shiqi Wang, Baoliang Chen, and Sam Kwong
 - <em>Neurocomputing</em>, Vol. 624, pp. 129423, 2025.
 - <span style="background-color: #f0f0f0; padding: 2px;">JCR-Q1</span> |
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0925231225000955) <a href='https://www.sciencedirect.com/science/article/abs/pii/S0925231225000955'><span class='show_paper_citations' data='rKhmgskAAAAJ:LkGwnXOMwfcC'></span></a> | 
 Code will be available soon
 </div>
 </div>
